@@ -1,0 +1,4 @@
+# Configuración git ignore
+.vscode/
+udemyCourse/
+lecture0/
