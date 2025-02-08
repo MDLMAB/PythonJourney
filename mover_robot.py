@@ -1,3 +1,12 @@
+''' Ejemplo de uso: 
+
+Se vqalida este código en robot Alphabot con Raspberry Pi 4 y cámara.
+Se instala OpenCV en la Raspberry Pi 4 con el siguiente comando:
+pip3 install opencv-python
+Se ejecuta el código en la Raspberry Pi 4 con el siguiente comando:
+python3 mover_robot.py
+
+'''
 import cv2 as cv                                                       # OpenCV
 import numpy as np                                                     # Numpy
 import RPi.GPIO as GPIO                                                # GPIO
